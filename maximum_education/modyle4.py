@@ -12,7 +12,7 @@
 # strcounter('aabcd')
 
 
-def strcounter(s):
+def strcounter(s): #O(2N)->O(N)
     syms_counter ={}
     for symbol in s:
         syms_counter[symbol] = syms_counter.get(symbol,0)+1
@@ -20,8 +20,8 @@ def strcounter(s):
     for symbol,count in syms_counter.items():
         print(symbol, count)
 
-strcounter('jhfdjghdfsjkghdjfghfdghfdjghjkhdfjfghjkdfshgjkherwtuighgehjghguivm,ngioreajfhdfvka')
+strcounter('dfhdsuhfjksf')
 
 
 
-# проверка
+# ghfgh
