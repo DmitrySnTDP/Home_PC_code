@@ -21,8 +21,3 @@ def strcounter(s): #O(2N)->O(N)
         print(symbol, count)
 
 strcounter('dfhdsuhfjksf')
-
-
-# fgdhfgh
-# ghfgh
-# пааарапырапыпа
