@@ -21,3 +21,7 @@ def strcounter(s):
         print(symbol, count)
 
 strcounter('jhfdjghdfsjkghdjfghfdghfdjghjkhdfjfghjkdfshgjkherwtuighgehjghguivm,ngioreajfhdfvka')
+
+
+
+# проверка
