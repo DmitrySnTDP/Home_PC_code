@@ -4,4 +4,5 @@ def check(n):
         not_n+=n[i]
     return n==not_n
 
+
 print(check(input()))
