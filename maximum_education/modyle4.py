@@ -12,12 +12,12 @@
 # strcounter('aabcd')
 
 
-def strcounter(s): #O(2N)->O(N)
-    syms_counter ={}
-    for symbol in s:
-        syms_counter[symbol] = syms_counter.get(symbol,0)+1
+# def strcounter(s): #O(2N)->O(N)
+#     syms_counter ={}
+#     for symbol in s:
+#         syms_counter[symbol] = syms_counter.get(symbol,0)+1
 
-    for symbol,count in syms_counter.items():
-        print(symbol, count)
+#     for symbol,count in syms_counter.items():
+#         print(symbol, count)
 
-strcounter('dfhdsuhfjksf')
+# strcounter('dfhdsuhfjksf')
